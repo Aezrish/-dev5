@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+}
+.search  {
+    text-align: center;
+    background-color: rgb(210, 210, 211);
+    margin-bottom: 5px;
+}
+.card {
+    float: left;
+    width: 33%;
+    height: 100px;
+    margin-left: 2px;
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+ul {
+    list-style-type: none;
+}
+.footer {
+    text-align: center;
+}
